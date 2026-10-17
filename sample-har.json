@@ -1,0 +1,130 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "sample-fixture",
+      "version": "1.0"
+    },
+    "pages": [
+      {
+        "id": "page_1",
+        "title": "https://example-shop.com/",
+        "startedDateTime": "2026-10-17T14:00:00.000Z"
+      }
+    ],
+    "entries": [
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:01.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://example-shop.com/"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:02.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://example-shop.com/static/app.css"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:03.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://cdn.example-shop.com/static/app.js"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:04.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://example-shop.com/api/products"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:05.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://example-shop.com/images/hero.jpg"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:06.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://fonts.example-shop.com/css?family=Inter"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:07.000Z",
+        "request": {
+          "method": "POST",
+          "url": "https://example-shop.com/api/consent"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:08.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-XXXX"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:09.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:10.000Z",
+        "request": {
+          "method": "POST",
+          "url": "https://www.facebook.com/tr/?id=123456&ev=PageView"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:11.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://bat.bing.com/bat.js"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:12.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://trc.taboola.com/sg/example-shop/123456/tfa.js"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:13.000Z",
+        "request": {
+          "method": "POST",
+          "url": "https://x.bidswitch.net/sync?ssp=example"
+        }
+      },
+      {
+        "pageref": "page_1",
+        "startedDateTime": "2026-10-17T14:00:14.000Z",
+        "request": {
+          "method": "GET",
+          "url": "https://example-shop.com/static/footer.css"
+        }
+      }
+    ]
+  }
+}
